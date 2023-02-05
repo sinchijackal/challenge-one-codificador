@@ -1,3 +1,9 @@
-# Challenge ONE Codificador4
+# Challenge ONE Codificador
 
-Challenge One Codificador 4
+Challenge One Codificador
+
+
+<p align="center" >
+     <img width="500" heigth="300" src="/assets/codificador.png">
+</p>
+
